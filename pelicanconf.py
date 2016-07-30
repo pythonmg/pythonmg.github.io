@@ -143,7 +143,7 @@ SOCIAL_LINKS = (
         "text": "Twitter",
     },
     {
-        "href": "https://www.facebook.com/",
+        "href": "https://www.facebook.com/uaipython",
         "icon": "fa-facebook",
         "text": "Facebook",
     },
