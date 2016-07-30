@@ -21,5 +21,7 @@ before_install:
 install:
 - pip install --upgrade pip
 - pip install -r requirements.txt
+- git clone https://github.com/grupydf/malt
+- pelican-themes -i malt
 script:
 - make github

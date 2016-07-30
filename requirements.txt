@@ -1,2 +1,5 @@
 pelican
 ghp-import
+beautifulsoup4
+pillow
+lxml
