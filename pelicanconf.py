@@ -220,6 +220,48 @@ MALT_HOME = [
 ]
 
 
+MALT_COMUNITY = [
+    {
+        'title': 'Mídias Sociais',
+        'text': 'Siga a Python-MG  nas mídias sociais para ficar por dentro' +
+        ' dos encontros, novidades e postagens do nosso blog.',
+        'buttons': [
+            {
+                'text': '<i class="fa fa-twitter fa-2x"></i> Twitter',
+                'href': 'https://twitter.com/PythonMG'
+            },
+            {
+                'text': '<i class="fa fa-facebook fa-2x"></i> Facebook',
+                'href': 'https://facebook.com/uaipython'
+            },
+        ],
+    },
+    {
+        'title': 'Meetup',
+        'text': 'Nos encontramos duas vezes ao mês para trocar conhecimento.' +
+        ' Veja nossa agenda de eventos.',
+        'buttons': [
+            {
+                'text': '<i class="fa fa-calendar fa-2x"></i> Meetup',
+                'href': 'http://www.meetup.com/' +
+                'Belo-Horizonte-Python-User-Group/'
+            },
+        ],
+    },
+    {
+        'title': 'Lista de emails',
+        'text': 'Para quem curte o bom e velho email, ' +
+        'temos a lista de discussão oficial do Grupy-DF no google groups.',
+        'buttons': [
+            {
+                'text': '<i class="fa fa-envelope fa-2x"></i> Lista',
+                'href': 'https://groups.google.com/forum/#!forum/python-mg'
+            },
+        ],
+    },
+]
+
+
 def GET_AVATAR(autor, membros):
     if autor in membros:
         if 'github' in membros[autor]:
