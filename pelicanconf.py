@@ -251,7 +251,7 @@ MALT_COMUNITY = [
     {
         'title': 'Lista de emails',
         'text': 'Para quem curte o bom e velho email, ' +
-        'temos a lista de discussão oficial do Grupy-DF no google groups.',
+        'temos a lista de discussão oficial dd Python MG no google groups.',
         'buttons': [
             {
                 'text': '<i class="fa fa-envelope fa-2x"></i> Lista',
