@@ -153,7 +153,7 @@ SOCIAL_LINKS = (
         "text": "Mailing List",
     },
     {
-        "href": "#",
+        "href": "https://telegram.me/joinchat/ADyifgM5UvBM95seWv33pA",
         "icon": "fa-paper-plane",
         "text": "Telegram",
     },
@@ -241,7 +241,7 @@ MALT_COMUNITY = [
             },
             {
                 'text': '<i class="fa fa-paper-plane fa-2x"></i> Telegram',
-                'href': 'https://pythonmg.github.io'
+                'href': 'https://telegram.me/joinchat/ADyifgM5UvBM95seWv33pA'
             },
         ],
     },
