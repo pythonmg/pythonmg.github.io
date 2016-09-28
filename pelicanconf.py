@@ -234,6 +234,10 @@ MALT_COMUNITY = [
                 'text': '<i class="fa fa-facebook fa-2x"></i> Facebook',
                 'href': 'https://facebook.com/uaipython'
             },
+            {
+                'text': '<i class="fa fa-paper-plane fa-2x"></i> Telegram',
+                'href': 'https://pythonmg.github.io'
+            },
         ],
     },
     {
