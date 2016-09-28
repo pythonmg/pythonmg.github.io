@@ -152,6 +152,11 @@ SOCIAL_LINKS = (
         "icon": "fa-envelope",
         "text": "Mailing List",
     },
+    {
+        "href": "#",
+        "icon": "fa-paper-plane",
+        "text": "Telegram",
+    },
 )
 
 MEMBROS = OrderedDict((
