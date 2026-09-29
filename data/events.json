@@ -163,5 +163,20 @@
     "href": "https://www.meetup.com/pythonmg/events/316599273/",
     "kind": "physical",
     "source": "meetup"
+  },
+  {
+    "title": {
+      "pt": "PyBHar - Não conte pra ninguém",
+      "en": "PyBHar - Não conte pra ninguém"
+    },
+    "date": "2026-10-08",
+    "time": "19:00",
+    "place": {
+      "pt": "O Segredo, Belo Horizonte",
+      "en": "O Segredo, Belo Horizonte"
+    },
+    "href": "https://www.meetup.com/pythonmg/events/316763127/",
+    "kind": "physical",
+    "source": "meetup"
   }
 ]
